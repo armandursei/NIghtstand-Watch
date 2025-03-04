@@ -1,4 +1,5 @@
 # Nightstand-Watch
+An Arduino bedside clock that helps monitor daily activities
 - implementation of sound alarm functionality  
 - displaying environment parameters - temperature and humidity 
 - the use of a graphic display 
